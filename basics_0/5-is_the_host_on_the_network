@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Script that pings an IP address passed as an argument
 arg_ip="$1"
 if [ "$#" -eq 0 ]; 
